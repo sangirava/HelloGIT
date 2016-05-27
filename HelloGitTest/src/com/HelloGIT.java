@@ -3,7 +3,7 @@ package com;
 public class HelloGIT {
 
 	static {
-        message = "Hello NNnNew Worlddd!";
+        message = "Hello sangeetha Worlddd!";
     }
 
     private final static String message;    
